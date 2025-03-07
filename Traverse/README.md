@@ -1,4 +1,4 @@
-# Array Traversal
+# Array Traversal by Big O Titans
 
 ## Description
 This project demonstrates the concept of array traversal in the C programming language. The program stores five integer elements in an array and uses a `for` loop to iterate through the array elements, printing each element alongside its index.
