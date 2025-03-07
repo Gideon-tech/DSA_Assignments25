@@ -24,7 +24,7 @@ int main(){
 
     //Displaying the results
     printf("Total Marks = %d\n", sum);
-    printf("Average Marks = %.2f\n, average");
+    printf("Average Marks = %.2f\n", average);
 
     return 0;
 }
