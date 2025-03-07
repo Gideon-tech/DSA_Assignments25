@@ -4,8 +4,9 @@
 This project demonstrates the concept of array traversal in the C programming language. The program stores five integer elements in an array and uses a `for` loop to iterate through the array elements, printing each element alongside its index.
 
 ## Prerequisites
-- Basic understanding of C programming
 - Installed C compiler (e.g., GCC)
+- Understanding of arrays implementation
+- Understading the use of a for loop to iterate through an array
 
 ## Code Overview
 ```c
@@ -55,3 +56,9 @@ Element at index 4: 50
    ```
    ./array_traversal
    ```
+   ## Contributing
+    Contributions are welcome! Please fork the repository and submit a pull request.
+
+
+   ## Contact
+For any inquiries, please contact **Maku Gideon** via [LinkedIn](https://www.linkedin.com/in/maku-gideon) or email at **paintingislife592@gmail.com**.
