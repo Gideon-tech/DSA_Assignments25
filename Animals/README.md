@@ -49,4 +49,9 @@ Tiger
 - C Compiler (GCC recommended)
 - Compatible operating system (Linux, Windows, macOS)
 
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
 
+
+## Contact
+For any inquiries, please contact **Maku Gideon** via [LinkedIn](https://www.linkedin.com/in/maku-gideon) or email at **paintingislife592@gmail.com**.
