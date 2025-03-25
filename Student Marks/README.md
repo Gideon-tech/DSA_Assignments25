@@ -63,4 +63,15 @@ Overall Average: 82.50
 - Computes the overall average of all subjects.
 - Simple and interactive input system.
 
+## Technologies Used
+
+- C Programming Language
+- Arrays and Data Structures
+- GCC Compiler
+
+## Contributin
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## Contact
+For any inquiries, please contact Maku Gideon via LinkedIn or email at paintingislife592@gmail.com.
 
