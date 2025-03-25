@@ -1,4 +1,4 @@
-# Student Marks Average Program
+# Student Marks Average Program by Big O Titans
 
 ## Overview
 This C program calculates the average marks obtained by a student in three subjects: **Physics, Chemistry, and Math**. Each subject consists of four different assessments:
@@ -19,11 +19,11 @@ The program computes the average for each subject and an overall average across 
 1. Copy the provided C code into a `.c` file (e.g., `student_marks.c`).
 2. Compile the program using a C compiler, such as GCC:
    ```sh
-   gcc student_marks.c -o student_marks
+   gcc student_marks.c -o Student_Marks
    ```
 3. Run the compiled program:
    ```sh
-   ./student_marks
+   ./Student_Marks
    ```
 4. Follow the on-screen prompts to enter the marks for each subject.
 5. View the calculated averages displayed at the end.
@@ -62,10 +62,5 @@ Overall Average: 82.50
 - Calculates and displays subject-wise averages.
 - Computes the overall average of all subjects.
 - Simple and interactive input system.
-
-## Future Enhancements
-- Add input validation to ensure marks are within a valid range (0-100).
-- Allow multiple students' scores to be entered and compared.
-- Store the results in a file for future reference.
 
 
