@@ -1,4 +1,4 @@
-# Marks Calculator Program
+# Marks Calculator Program by Big O Titans
 
 ## Overview
 This program calculates the average marks of a student in three subjects: **Physics, Chemistry, and Math**. It takes input for four assessments in each subject and computes the average for each subject as well as the overall average across all subjects.
@@ -14,13 +14,13 @@ This program calculates the average marks of a student in three subjects: **Phys
 ### Compilation
 Use the following command to compile the program:
 ```sh
-gcc marks_calculator.c -o marks_calculator
+gcc student_marks.c -o marks_calculator
 ```
 
 ### Execution
 Run the program using:
 ```sh
-./marks_calculator
+./Marks_Students
 ```
 
 ## How It Works
@@ -68,11 +68,7 @@ Overall Average: 81.50
 - **C Compiler** (e.g., `gcc` for Linux/macOS, MinGW for Windows)
 - Standard C libraries (`stdio.h`)
 
-## Possible Enhancements
-- Store student records in a file for future retrieval.
-- Allow multiple students to input their marks.
-- Implement a graphical user interface (GUI) for better user experience.
 
-## Author
-Created by **[Your Name]**
+
+
 
